@@ -1,0 +1,95 @@
+body {
+  font-family: Sans-serif;
+}
+
+header {
+  background-color: #C68EFD;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+nav {
+  margin-left: 300px;
+  margin-bottom: 30px;
+}
+
+a:hover {
+  background-color: #987400;
+  color: #ffe696;
+  border: 6px double #e8b205;
+}
+
+a {
+  text-decoration: none;
+  color: #987400;
+  border: 3px solid #987400;
+  background-color: #FFD95F;
+  padding: 10px;
+  border-radius: 100px;
+}
+
+.smol {
+  background-color: #FCE7C8;
+  width: 700px;
+  color: #B03052;
+  margin-left: 250px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.BIcecream {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: #D98324;
+}
+
+.BIcecream p {
+  margin: 20px;
+}
+
+.SIcecream {
+  margin: 10px; 
+  border-radius: 10px;
+  border: 5px solid #D98324;
+  width: 300px;
+  height: 250px;
+  background-color: #FBF8C1;
+}
+
+.RIcecream {
+  display: flex;
+  justify-content: center;
+}
+  
+.RIcecream p {
+  margin: 20px;
+}
+
+.WIcecream{
+  margin: 10px;
+  border-radius: 10px;
+  border:5px solid #D98324;
+  width: 300px;
+  height: 250px;
+  background-color: #FBF8C1;
+  font-size: 30px;
+  color: #D98324;
+}
+  
+.OIcecream {
+  margin: 10px;
+  border-radius: 10px;
+  border:5px solid #D98324;
+  width: 300px;
+  height: 250px;
+  background-color: #FBF8C1;
+  font-size: 30px;
+  color: #D98324;
+}  
+
+footer {
+  background-color: #C68EFD;
+  color: white;
+}
